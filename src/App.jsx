@@ -5,6 +5,8 @@ import AuthPage from "./pages/AuthPage/AuthPage.jsx";
 import PageLayout from "./Layouts/PageLayout/PageLayout.jsx";
 
 function App() {
+
+    // add comment for testing this changes
   return (
     <PageLayout>
         <Routes>
