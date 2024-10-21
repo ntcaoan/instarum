@@ -5,6 +5,9 @@ import AuthPage from "./pages/AuthPage/AuthPage.jsx";
 import PageLayout from "./Layouts/PageLayout/PageLayout.jsx";
 
 function App() {
+
+    // adding comment for testing then git push
+
   return (
     <PageLayout>
         <Routes>
